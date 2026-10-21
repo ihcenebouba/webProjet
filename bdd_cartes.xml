@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartes>
+    <carte id="1">
+        <nom>Exeggcute</nom>
+        <numero_pokedex>102</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Plante</type>
+        <pv>60</pv>
+        <attaques>
+            <attaque nom="Hypnose" degats="0">
+                <cout>Incolore</cout>
+                <effet>Le Pokémon Actif de votre adversaire est maintenant Endormi.</effet>
+            </attaque>
+        </attaques>
+        <faiblesse>Feu</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Nelnal</illustrateur>
+        <extension code="30C" numero="001">30th Celebration</extension>
+        <rarete>Commune</rarete>
+        <image>images/30C_001.png</image>
+    </carte>
+    <carte id="2">
+        <nom>Bulbizarre</nom>
+        <numero_pokedex>001</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Plante</type>
+        <type>Poison</type>
+        <pv>45</pv>
+        <attaques>
+            <attaque nom="Fouet Lianes" degats="40">
+                <cout>Plante</cout>
+                <cout>Plante</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Feu</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="002">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/001.png</image>
+    </carte>
+    <carte id="3">
+        <nom>Herbizarre</nom>
+        <numero_pokedex>002</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 1</stade>
+        <type>Plante</type>
+        <type>Poison</type>
+        <pv>60</pv>
+        <attaques>
+            <attaque nom="Tranch'Herbe" degats="60">
+                <cout>Plante</cout>
+                <cout>Plante</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Feu</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="003">Collection perso</extension>
+        <rarete>Peu commune</rarete>
+        <image>images/002.png</image>
+    </carte>
+    <carte id="4">
+        <nom>Florizarre</nom>
+        <numero_pokedex>003</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 2</stade>
+        <type>Plante</type>
+        <type>Poison</type>
+        <pv>100</pv>
+        <attaques>
+            <attaque nom="Lance-Soleil" degats="120">
+                <cout>Plante</cout>
+                <cout>Plante</cout>
+                <cout>Plante</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Feu</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="004">Collection perso</extension>
+        <rarete>Rare</rarete>
+        <image>images/003.png</image>
+    </carte>
+    <carte id="5">
+        <nom>Salamèche</nom>
+        <numero_pokedex>004</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Feu</type>
+        <pv>39</pv>
+        <attaques>
+            <attaque nom="Flammèche" degats="30">
+                <cout>Feu</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Eau</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="005">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/004.png</image>
+    </carte>
+    <carte id="6">
+        <nom>Reptincel</nom>
+        <numero_pokedex>005</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 1</stade>
+        <type>Feu</type>
+        <pv>58</pv>
+        <attaques>
+            <attaque nom="Draco-Griffe" degats="50">
+                <cout>Feu</cout>
+                <cout>Feu</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Eau</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="006">Collection perso</extension>
+        <rarete>Peu commune</rarete>
+        <image>images/005.png</image>
+    </carte>
+    <carte id="7">
+        <nom>Dracaufeu</nom>
+        <numero_pokedex>006</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 2</stade>
+        <type>Feu</type>
+        <type>Vol</type>
+        <pv>120</pv>
+        <attaques>
+            <attaque nom="Lance-Flammes" degats="100">
+                <cout>Feu</cout>
+                <cout>Feu</cout>
+                <cout>Feu</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Eau</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>3</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="007">Collection perso</extension>
+        <rarete>Rare Holo</rarete>
+        <image>images/006.png</image>
+    </carte>
+    <carte id="8">
+        <nom>Carapuce</nom>
+        <numero_pokedex>007</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Eau</type>
+        <pv>44</pv>
+        <attaques>
+            <attaque nom="Pistolet à O" degats="30">
+                <cout>Eau</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Électrik</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="008">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/007.png</image>
+    </carte>
+    <carte id="9">
+        <nom>Carabaffe</nom>
+        <numero_pokedex>008</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 1</stade>
+        <type>Eau</type>
+        <pv>59</pv>
+        <attaques>
+            <attaque nom="Hydroqueue" degats="50">
+                <cout>Eau</cout>
+                <cout>Eau</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Électrik</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="009">Collection perso</extension>
+        <rarete>Peu commune</rarete>
+        <image>images/008.png</image>
+    </carte>
+    <carte id="10">
+        <nom>Tortank</nom>
+        <numero_pokedex>009</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 2</stade>
+        <type>Eau</type>
+        <pv>100</pv>
+        <attaques>
+            <attaque nom="Hydrocanon" degats="110">
+                <cout>Eau</cout>
+                <cout>Eau</cout>
+                <cout>Eau</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Électrik</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="010">Collection perso</extension>
+        <rarete>Rare Holo</rarete>
+        <image>images/009.png</image>
+    </carte>
+    <carte id="11">
+        <nom>Pikachu</nom>
+        <numero_pokedex>025</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Électrik</type>
+        <pv>40</pv>
+        <attaques>
+            <attaque nom="Éclair" degats="30">
+                <cout>Électrik</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Combat</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="011">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/025.png</image>
+    </carte>
+    <carte id="12">
+        <nom>Raichu</nom>
+        <numero_pokedex>026</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 1</stade>
+        <type>Électrik</type>
+        <pv>90</pv>
+        <attaques>
+            <attaque nom="Fatal-Foudre" degats="110">
+                <cout>Électrik</cout>
+                <cout>Électrik</cout>
+                <cout>Électrik</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Combat</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="012">Collection perso</extension>
+        <rarete>Rare</rarete>
+        <image>images/026.png</image>
+    </carte>
+    <carte id="13">
+        <nom>Rondoudou</nom>
+        <numero_pokedex>039</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Normal</type>
+        <type>Fée</type>
+        <pv>70</pv>
+        <attaques>
+            <attaque nom="Berceuse" degats="20">
+                <cout>Normal</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Combat</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="013">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/039.png</image>
+    </carte>
+    <carte id="14">
+        <nom>Abra</nom>
+        <numero_pokedex>063</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Psy</type>
+        <pv>25</pv>
+        <attaques>
+            <attaque nom="Téléport" degats="0">
+                <cout>Psy</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Ténèbres</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="014">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/063.png</image>
+    </carte>
+    <carte id="15">
+        <nom>Magicarpe</nom>
+        <numero_pokedex>129</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Eau</type>
+        <pv>30</pv>
+        <attaques>
+            <attaque nom="Trempette" degats="0">
+                <cout>Eau</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Électrik</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="015">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/129.png</image>
+    </carte>
+    <carte id="16">
+        <nom>Léviator</nom>
+        <numero_pokedex>130</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Niveau 1</stade>
+        <type>Eau</type>
+        <type>Vol</type>
+        <pv>130</pv>
+        <attaques>
+            <attaque nom="Hydrocanon" degats="120">
+                <cout>Eau</cout>
+                <cout>Eau</cout>
+                <cout>Eau</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Électrik</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>3</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="016">Collection perso</extension>
+        <rarete>Rare Holo</rarete>
+        <image>images/130.png</image>
+    </carte>
+    <carte id="17">
+        <nom>Lokhlass</nom>
+        <numero_pokedex>131</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Eau</type>
+        <type>Glace</type>
+        <pv>100</pv>
+        <attaques>
+            <attaque nom="Laser Glace" degats="80">
+                <cout>Eau</cout>
+                <cout>Eau</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Électrik</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="017">Collection perso</extension>
+        <rarete>Rare</rarete>
+        <image>images/131.png</image>
+    </carte>
+    <carte id="18">
+        <nom>Métamorph</nom>
+        <numero_pokedex>132</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Normal</type>
+        <pv>50</pv>
+        <attaques>
+            <attaque nom="Morphing" degats="0">
+                <cout>Normal</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Combat</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="018">Collection perso</extension>
+        <rarete>Rare</rarete>
+        <image>images/132.png</image>
+    </carte>
+    <carte id="19">
+        <nom>Évoli</nom>
+        <numero_pokedex>133</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Normal</type>
+        <pv>50</pv>
+        <attaques>
+            <attaque nom="Charge" degats="20">
+                <cout>Normal</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Combat</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>1</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="019">Collection perso</extension>
+        <rarete>Commune</rarete>
+        <image>images/133.png</image>
+    </carte>
+    <carte id="20">
+        <nom>Ronflex</nom>
+        <numero_pokedex>143</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Base</stade>
+        <type>Normal</type>
+        <pv>130</pv>
+        <attaques>
+            <attaque nom="Plaquage" degats="90">
+                <cout>Normal</cout>
+                <cout>Normal</cout>
+                <cout>Normal</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Combat</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>3</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="020">Collection perso</extension>
+        <rarete>Rare</rarete>
+        <image>images/143.png</image>
+    </carte>
+    <carte id="21">
+        <nom>Électhor</nom>
+        <numero_pokedex>145</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Légendaire</stade>
+        <type>Électrik</type>
+        <type>Vol</type>
+        <pv>110</pv>
+        <attaques>
+            <attaque nom="Tonnerre" degats="100">
+                <cout>Électrik</cout>
+                <cout>Électrik</cout>
+                <cout>Électrik</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Combat</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>3</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="021">Collection perso</extension>
+        <rarete>Rare Holo</rarete>
+        <image>images/145.png</image>
+    </carte>
+    <carte id="22">
+        <nom>Mewtwo</nom>
+        <numero_pokedex>150</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Légendaire</stade>
+        <type>Psy</type>
+        <pv>120</pv>
+        <attaques>
+            <attaque nom="Psyko" degats="110">
+                <cout>Psy</cout>
+                <cout>Psy</cout>
+                <cout>Psy</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Ténèbres</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>3</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="022">Collection perso</extension>
+        <rarete>Rare Holo</rarete>
+        <image>images/150.png</image>
+    </carte>
+    <carte id="23">
+        <nom>Mew</nom>
+        <numero_pokedex>151</numero_pokedex>
+        <categorie>Pokémon</categorie>
+        <stade>Mythique</stade>
+        <type>Psy</type>
+        <pv>100</pv>
+        <attaques>
+            <attaque nom="Choc Mental" degats="60">
+                <cout>Psy</cout>
+                <cout>Psy</cout>
+            </attaque>
+        </attaques>
+        <faiblesse>Ténèbres</faiblesse>
+        <resistance>aucune</resistance>
+        <retraite>2</retraite>
+        <illustrateur>Non renseigné</illustrateur>
+        <extension code="PERSO" numero="023">Collection perso</extension>
+        <rarete>Rare Holo</rarete>
+        <image>images/151.png</image>
+    </carte>
+</cartes>
