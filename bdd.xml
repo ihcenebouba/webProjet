@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<base_de_donnees>
+    <questions>
+        <question>
+            <id>1</id>
+            <enonce>Quel est le Pokémon numéro 1 dans le Pokédex national ?</enonce>
+            <choix>
+                <reponse>A. Pikachu</reponse>
+                <reponse>B. Bulbizarre</reponse>
+                <reponse>C. Salamèche</reponse>
+                <reponse>D. Carapuce</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>2</id>
+            <enonce>Quel est le type de Pikachu ?</enonce>
+            <choix>
+                <reponse>A. Feu</reponse>
+                <reponse>B. Eau</reponse>
+                <reponse>C. Électrik</reponse>
+                <reponse>D. Plante</reponse>
+            </choix>
+            <bonne_reponse>C</bonne_reponse>
+            <theme>Électrik</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>3</id>
+            <enonce>En quel Pokémon évolue Salamèche au premier stade ?</enonce>
+            <choix>
+                <reponse>A. Dracaufeu</reponse>
+                <reponse>B. Reptincel</reponse>
+                <reponse>C. Dracolosse</reponse>
+                <reponse>D. Roucarnage</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Feu</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>4</id>
+            <enonce>Quel objet permet généralement de capturer un Pokémon ?</enonce>
+            <choix>
+                <reponse>A. Une Potion</reponse>
+                <reponse>B. Une Poké Ball</reponse>
+                <reponse>C. Un Pokédex</reponse>
+                <reponse>D. Une Pierre Foudre</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>5</id>
+            <enonce>Quel est le Pokémon de type Eau parmi ces choix ?</enonce>
+            <choix>
+                <reponse>A. Salamèche</reponse>
+                <reponse>B. Bulbizarre</reponse>
+                <reponse>C. Carapuce</reponse>
+                <reponse>D. Pikachu</reponse>
+            </choix>
+            <bonne_reponse>C</bonne_reponse>
+            <theme>Eau</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>6</id>
+            <enonce>Quel Pokémon est connu comme le Pokémon Souris ?</enonce>
+            <choix>
+                <reponse>A. Pikachu</reponse>
+                <reponse>B. Ronflex</reponse>
+                <reponse>C. Mewtwo</reponse>
+                <reponse>D. Onix</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Électrik</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>7</id>
+            <enonce>Quel est le dernier stade d'évolution de Bulbizarre ?</enonce>
+            <choix>
+                <reponse>A. Herbizarre</reponse>
+                <reponse>B. Florizarre</reponse>
+                <reponse>C. Empiflor</reponse>
+                <reponse>D. Rafflesia</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>8</id>
+            <enonce>Quel Pokémon est connu pour dormir presque tout le temps ?</enonce>
+            <choix>
+                <reponse>A. Ronflex</reponse>
+                <reponse>B. Miaouss</reponse>
+                <reponse>C. Abra</reponse>
+                <reponse>D. Machoc</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>9</id>
+            <enonce>Quel Pokémon est le célèbre compagnon de Sacha dans l'anime ?</enonce>
+            <choix>
+                <reponse>A. Carapuce</reponse>
+                <reponse>B. Pikachu</reponse>
+                <reponse>C. Bulbizarre</reponse>
+                <reponse>D. Rondoudou</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>10</id>
+            <enonce>Quel type est particulièrement efficace contre le type Eau ?</enonce>
+            <choix>
+                <reponse>A. Feu</reponse>
+                <reponse>B. Roche</reponse>
+                <reponse>C. Électrik</reponse>
+                <reponse>D. Acier</reponse>
+            </choix>
+            <bonne_reponse>C</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>11</id>
+            <enonce>Quel est le nom de l'évolution de Carapuce ?</enonce>
+            <choix>
+                <reponse>A. Tortank</reponse>
+                <reponse>B. Carabaffe</reponse>
+                <reponse>C. Lokhlass</reponse>
+                <reponse>D. Krabboss</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Eau</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>12</id>
+            <enonce>Quel Pokémon est de type Psy et peut utiliser la téléportation ?</enonce>
+            <choix>
+                <reponse>A. Abra</reponse>
+                <reponse>B. Onix</reponse>
+                <reponse>C. Racaillou</reponse>
+                <reponse>D. Caninos</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Électrik</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>13</id>
+            <enonce>Quel est le nom du Pokémon légendaire associé à la foudre dans la première génération ?</enonce>
+            <choix>
+                <reponse>A. Artikodin</reponse>
+                <reponse>B. Sulfura</reponse>
+                <reponse>C. Électhor</reponse>
+                <reponse>D. Mew</reponse>
+            </choix>
+            <bonne_reponse>C</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>14</id>
+            <enonce>Quel Pokémon évolue en Raichu ?</enonce>
+            <choix>
+                <reponse>A. Mélo</reponse>
+                <reponse>B. Pikachu</reponse>
+                <reponse>C. Évoli</reponse>
+                <reponse>D. Pichu</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>15</id>
+            <enonce>Quel Pokémon est de type Spectre et Poison dans la première génération ?</enonce>
+            <choix>
+                <reponse>A. Fantominus</reponse>
+                <reponse>B. Psykokwak</reponse>
+                <reponse>C. Taupiqueur</reponse>
+                <reponse>D. Ptitard</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Électrik</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>16</id>
+            <enonce>Quel Pokémon est connu pour porter une coquille sur son dos et vivre dans l'eau ?</enonce>
+            <choix>
+                <reponse>A. Carapuce</reponse>
+                <reponse>B. Caninos</reponse>
+                <reponse>C. Abra</reponse>
+                <reponse>D. Doduo</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Eau</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>17</id>
+            <enonce>Quel Pokémon est l'évolution de Reptincel ?</enonce>
+            <choix>
+                <reponse>A. Dracaufeu</reponse>
+                <reponse>B. Dracolosse</reponse>
+                <reponse>C. Typhlosion</reponse>
+                <reponse>D. Braségali</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Feu</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>18</id>
+            <enonce>Quel Pokémon est associé à la Team Rocket et vole souvent des objets dans l'anime ?</enonce>
+            <choix>
+                <reponse>A. Miaouss</reponse>
+                <reponse>B. Ronflex</reponse>
+                <reponse>C. Leveinard</reponse>
+                <reponse>D. Métamorph</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>19</id>
+            <enonce>Quel type de Pokémon est généralement avantagé contre le type Roche ?</enonce>
+            <choix>
+                <reponse>A. Feu</reponse>
+                <reponse>B. Vol</reponse>
+                <reponse>C. Eau</reponse>
+                <reponse>D. Poison</reponse>
+            </choix>
+            <bonne_reponse>C</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>20</id>
+            <enonce>Quel Pokémon possède une longue langue et est de type Eau ?</enonce>
+            <choix>
+                <reponse>A. Excelangue</reponse>
+                <reponse>B. Ptitard</reponse>
+                <reponse>C. Psykokwak</reponse>
+                <reponse>D. Tentacool</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Eau</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>21</id>
+            <enonce>Quel Pokémon évolue en Papilusion ?</enonce>
+            <choix>
+                <reponse>A. Chenipan</reponse>
+                <reponse>B. Aspicot</reponse>
+                <reponse>C. Paras</reponse>
+                <reponse>D. Chenipotte</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>22</id>
+            <enonce>Quel est le type principal de Dracaufeu en plus du type Feu ?</enonce>
+            <choix>
+                <reponse>A. Dragon</reponse>
+                <reponse>B. Vol</reponse>
+                <reponse>C. Combat</reponse>
+                <reponse>D. Sol</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>23</id>
+            <enonce>Quel Pokémon légendaire est associé à la connaissance dans la région de Sinnoh ?</enonce>
+            <choix>
+                <reponse>A. Créhelf</reponse>
+                <reponse>B. Créfollet</reponse>
+                <reponse>C. Créfadet</reponse>
+                <reponse>D. Dialga</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>24</id>
+            <enonce>Quel objet permet de soigner les PV d'un Pokémon ?</enonce>
+            <choix>
+                <reponse>A. Poké Ball</reponse>
+                <reponse>B. Potion</reponse>
+                <reponse>C. Corde Sortie</reponse>
+                <reponse>D. Vélo</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>25</id>
+            <enonce>Quel Pokémon peut prendre l'apparence d'un autre Pokémon ?</enonce>
+            <choix>
+                <reponse>A. Métamorph</reponse>
+                <reponse>B. Mimitoss</reponse>
+                <reponse>C. Rhinocorne</reponse>
+                <reponse>D. Magneti</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>26</id>
+            <enonce>Quel Pokémon évolue en Nostenfer ?</enonce>
+            <choix>
+                <reponse>A. Nosferapti</reponse>
+                <reponse>B. Nosferalto</reponse>
+                <reponse>C. Fantominus</reponse>
+                <reponse>D. Cornèbre</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>27</id>
+            <enonce>Quel est le type de Lokhlass ?</enonce>
+            <choix>
+                <reponse>A. Eau et Glace</reponse>
+                <reponse>B. Eau et Dragon</reponse>
+                <reponse>C. Glace et Vol</reponse>
+                <reponse>D. Eau et Plante</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Eau</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>28</id>
+            <enonce>Quel Pokémon est connu pour son chant qui endort les autres ?</enonce>
+            <choix>
+                <reponse>A. Rondoudou</reponse>
+                <reponse>B. Machopeur</reponse>
+                <reponse>C. Rattata</reponse>
+                <reponse>D. Insécateur</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>29</id>
+            <enonce>Quel Pokémon est l'évolution de Magicarpe ?</enonce>
+            <choix>
+                <reponse>A. Léviator</reponse>
+                <reponse>B. Hypocéan</reponse>
+                <reponse>C. Staross</reponse>
+                <reponse>D. Poissoroy</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Eau</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>30</id>
+            <enonce>Quel Pokémon est connu comme le Pokémon Génétique ?</enonce>
+            <choix>
+                <reponse>A. Mew</reponse>
+                <reponse>B. Mewtwo</reponse>
+                <reponse>C. Artikodin</reponse>
+                <reponse>D. Celebi</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>31</id>
+            <enonce>Quel Pokémon est de type Acier et Psy dans la troisième génération ?</enonce>
+            <choix>
+                <reponse>A. Métalosse</reponse>
+                <reponse>B. Absol</reponse>
+                <reponse>C. Hariyama</reponse>
+                <reponse>D. Jungko</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>32</id>
+            <enonce>Quel Pokémon évolue grâce à une Pierre Foudre ?</enonce>
+            <choix>
+                <reponse>A. Évoli en Voltali</reponse>
+                <reponse>B. Salamèche en Reptincel</reponse>
+                <reponse>C. Carapuce en Carabaffe</reponse>
+                <reponse>D. Bulbizarre en Herbizarre</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>33</id>
+            <enonce>Quel est le nom du professeur Pokémon de Bourg Palette dans les jeux originaux ?</enonce>
+            <choix>
+                <reponse>A. Professeur Chen</reponse>
+                <reponse>B. Professeur Orme</reponse>
+                <reponse>C. Professeur Sorbier</reponse>
+                <reponse>D. Professeur Platane</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>34</id>
+            <enonce>Quel Pokémon est de type Combat parmi ces choix ?</enonce>
+            <choix>
+                <reponse>A. Machoc</reponse>
+                <reponse>B. Fantominus</reponse>
+                <reponse>C. Psykokwak</reponse>
+                <reponse>D. Magnéti</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>35</id>
+            <enonce>Quel Pokémon possède trois têtes dans sa forme évoluée de type Dragon et Ténèbres ?</enonce>
+            <choix>
+                <reponse>A. Drattak</reponse>
+                <reponse>B. Trioxhydre</reponse>
+                <reponse>C. Dracolosse</reponse>
+                <reponse>D. Libégon</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Feu</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>36</id>
+            <enonce>Quel est le type de Goupix dans sa forme originale ?</enonce>
+            <choix>
+                <reponse>A. Feu</reponse>
+                <reponse>B. Glace</reponse>
+                <reponse>C. Psy</reponse>
+                <reponse>D. Ténèbres</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Feu</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>37</id>
+            <enonce>Quel Pokémon est l'évolution de Tarsal au niveau 20 si c'est un mâle ?</enonce>
+            <choix>
+                <reponse>A. Gardevoir</reponse>
+                <reponse>B. Gallame</reponse>
+                <reponse>C. Kirlia</reponse>
+                <reponse>D. Mentali</reponse>
+            </choix>
+            <bonne_reponse>C</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>38</id>
+            <enonce>Quel Pokémon légendaire contrôle le temps dans la mythologie de Sinnoh ?</enonce>
+            <choix>
+                <reponse>A. Palkia</reponse>
+                <reponse>B. Giratina</reponse>
+                <reponse>C. Dialga</reponse>
+                <reponse>D. Arceus</reponse>
+            </choix>
+            <bonne_reponse>C</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>39</id>
+            <enonce>Quel Pokémon est l'évolution de Chenipan ?</enonce>
+            <choix>
+                <reponse>A. Chrysacier</reponse>
+                <reponse>B. Papilusion</reponse>
+                <reponse>C. Dardargnan</reponse>
+                <reponse>D. Coconfort</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>40</id>
+            <enonce>Quel Pokémon est connu comme le Pokémon Émeraude et associé à Hoenn ?</enonce>
+            <choix>
+                <reponse>A. Rayquaza</reponse>
+                <reponse>B. Suicune</reponse>
+                <reponse>C. Lugia</reponse>
+                <reponse>D. Ho-Oh</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>41</id>
+            <enonce>Quel type est super efficace contre le type Dragon ?</enonce>
+            <choix>
+                <reponse>A. Eau</reponse>
+                <reponse>B. Dragon</reponse>
+                <reponse>C. Insecte</reponse>
+                <reponse>D. Normal</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>42</id>
+            <enonce>Quel Pokémon est le Pokémon Flamme dans la première génération ?</enonce>
+            <choix>
+                <reponse>A. Ponyta</reponse>
+                <reponse>B. Psykokwak</reponse>
+                <reponse>C. Ramoloss</reponse>
+                <reponse>D. Tauros</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Feu</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>43</id>
+            <enonce>Quel Pokémon est connu pour se transformer en pierre et se cacher dans les grottes ?</enonce>
+            <choix>
+                <reponse>A. Racaillou</reponse>
+                <reponse>B. Magicarpe</reponse>
+                <reponse>C. Rondoudou</reponse>
+                <reponse>D. Canarticho</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>44</id>
+            <enonce>Quel est le type de Noctali ?</enonce>
+            <choix>
+                <reponse>A. Psy</reponse>
+                <reponse>B. Ténèbres</reponse>
+                <reponse>C. Spectre</reponse>
+                <reponse>D. Poison</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Électrik</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>45</id>
+            <enonce>Quel Pokémon évolue en Togekiss ?</enonce>
+            <choix>
+                <reponse>A. Togepi</reponse>
+                <reponse>B. Togetic</reponse>
+                <reponse>C. Mélo</reponse>
+                <reponse>D. Ptiravi</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>46</id>
+            <enonce>Quel Pokémon est le Pokémon Aura de la quatrième génération ?</enonce>
+            <choix>
+                <reponse>A. Lucario</reponse>
+                <reponse>B. Riolu</reponse>
+                <reponse>C. Carchacrok</reponse>
+                <reponse>D. Simiabraz</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>47</id>
+            <enonce>Quel est le type de Spiritomb ?</enonce>
+            <choix>
+                <reponse>A. Spectre et Ténèbres</reponse>
+                <reponse>B. Spectre et Psy</reponse>
+                <reponse>C. Ténèbres et Dragon</reponse>
+                <reponse>D. Roche et Spectre</reponse>
+            </choix>
+            <bonne_reponse>A</bonne_reponse>
+            <theme>Électrik</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>48</id>
+            <enonce>Quel Pokémon est l'évolution finale de Ouisticram ?</enonce>
+            <choix>
+                <reponse>A. Chimpenfeu</reponse>
+                <reponse>B. Simiabraz</reponse>
+                <reponse>C. Braségali</reponse>
+                <reponse>D. Roitiflam</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Feu</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>49</id>
+            <enonce>Quel Pokémon légendaire est connu comme le Pokémon Créateur ?</enonce>
+            <choix>
+                <reponse>A. Mewtwo</reponse>
+                <reponse>B. Arceus</reponse>
+                <reponse>C. Rayquaza</reponse>
+                <reponse>D. Kyogre</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+        <question>
+            <id>50</id>
+            <enonce>Combien de Pokémon composent le trio des oiseaux légendaires de Kanto ?</enonce>
+            <choix>
+                <reponse>A. Deux</reponse>
+                <reponse>B. Trois</reponse>
+                <reponse>C. Quatre</reponse>
+                <reponse>D. Cinq</reponse>
+            </choix>
+            <bonne_reponse>B</bonne_reponse>
+            <theme>Terre</theme>
+            <point>1</point>
+        </question>
+    </questions>
+</base_de_donnees>
